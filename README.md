@@ -1,4 +1,4 @@
-Level Of Questions
-Easy 
-Medium
-Hard
+Level Of Questions |
+Easy  |
+Medium |
+Hard 
